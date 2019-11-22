@@ -14,10 +14,24 @@ nav{
     background-color: antiquewhite;
     height: 80px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 nav a{
+    color: indigo;
+    font-size: 14pt;
+    text-decoration: none;
+}
+
+footer{
+    align-items: center;
+    background-color: antiquewhite;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer a{
     color: indigo;
     font-size: 14pt;
     text-decoration: none;
